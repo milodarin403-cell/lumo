@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#F7F5F2" rx="112"/>
+  <path d="M256 31 A225 225 0 0 1 481 256" fill="none" stroke="#3D7EBF" stroke-width="47" stroke-linecap="round"/>
+  <path d="M481 256 A225 225 0 0 1 256 481" fill="none" stroke="#B85C38" stroke-width="47" stroke-linecap="round"/>
+  <path d="M256 481 A225 225 0 0 1 31 256" fill="none" stroke="#2E7D6B" stroke-width="47" stroke-linecap="round"/>
+  <path d="M31 256 A225 225 0 0 1 256 31" fill="none" stroke="#8B5E8B" stroke-width="47" stroke-linecap="round"/>
+  <circle cx="256" cy="256" r="163" fill="#F7F5F2"/>
+  <path d="M256 196 C256 196 195 163 200 196 C144 235 223 279 256 313 C289 279 368 235 312 196 C317 163 256 196 256 196Z" fill="#B85C38"/>
+  <text x="256" y="450" text-anchor="middle" font-family="Times New Roman, serif" font-size="66" font-weight="700" font-style="italic" fill="#1C1C1E" letter-spacing="1">lumo</text>
+</svg>
